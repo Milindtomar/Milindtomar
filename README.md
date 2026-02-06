@@ -1,5 +1,5 @@
 Hi 👋, I'm Milind Tomar</h1>
-<h3 align="center">A passionate ai/ml engineer from India</h3>
+</h3>A passionate ai/ml engineer from India</h3>
 
 - 🔭 I’m currently working on **House Price prediction model**
 
