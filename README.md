@@ -1,9 +1,10 @@
 Hi 👋, I'm Milind Tomar</h1>
-</h3>A passionate ai/ml engineer from India</h3>
+</h3>A passionate AI/ML engineer from India</h3>
+I enjoy building scalable ml projects and strengthening my foundation in Data Structures and Algorithms.
 
 - 🔭 I’m currently working on **House Price prediction model**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 Currently focused on **Gen APIs nd Deep Learning**
 
 
 
@@ -19,6 +20,8 @@ An XGBoost-based model to predict real estate prices
 
 🤝 Let's Connect
 📧 Email: milindtomar31@gmail.com
+
+
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 <h3 align="left">Connect with me:</h3>
