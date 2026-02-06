@@ -5,6 +5,22 @@ Hi 👋, I'm Milind Tomar</h1>
 
 - 🌱 I’m currently learning **Neural Networks**
 
+
+
+
+
+📌 Featured Projects
+🔹 Stock Price Prediction Model
+An LSTM-based deep learning model to predict future stock prices using historical data and provide real-time actionable insights via a web interface
+
+🔹 House-Price-Prediction-Model
+An XGBoost-based model to predict real estate prices
+
+
+🤝 Let's Connect
+📧 Email: milindtomar31@gmail.com
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/milind tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milind tomar" height="30" width="40" /></a>
